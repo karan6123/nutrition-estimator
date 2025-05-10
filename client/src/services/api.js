@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000/api/estimate';
+const API_URL = 'https://nutrition-estimator-nro8.onrender.com/api/estimate';
 
 export const estimateNutrition = async (dish) => {
   try {
