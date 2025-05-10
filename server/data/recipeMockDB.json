@@ -1,0 +1,72 @@
+{
+  "jeera aloo (mild fried)": {
+    "dishType": "Dry Sabzi",
+    "ingredients": [
+      {
+        "name": "aloo",
+        "quantity": 2,
+        "unit": "katori"
+      },
+      {
+        "name": "jeera",
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    ]
+  },
+  "gobhi sabzi": {
+    "dishType": "Dry Sabzi",
+    "ingredients": [
+      {
+        "name": "gobhi",
+        "quantity": 1.5,
+        "unit": "katori"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "katori"
+      }
+    ]
+  },
+  "chana masala": {
+    "dishType": "Curry",
+    "ingredients": [
+      {
+        "name": "chana",
+        "quantity": 1.5,
+        "unit": "katori"
+      },
+      {
+        "name": "onion",
+        "quantity": 0.5,
+        "unit": "katori"
+      }
+    ]
+  },
+  "paneer curry with capsicum": {
+    "dishType": "Wet Sabzi",
+    "ingredients": [
+      {
+        "name": "paneer",
+        "quantity": 1,
+        "unit": "glass"
+      },
+      {
+        "name": "capsicum",
+        "quantity": 1,
+        "unit": "katori"
+      }
+    ]
+  },
+  "mixed veg": {
+    "dishType": "Mixed",
+    "ingredients": [
+      {
+        "name": "mixed veg",
+        "quantity": 2,
+        "unit": "katori"
+      }
+    ]
+  }
+}

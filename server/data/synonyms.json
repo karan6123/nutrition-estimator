@@ -1,0 +1,25 @@
+{
+  "potato": [
+    "aloo"
+  ],
+  "jeera": [
+    "cumin",
+    "zeera"
+  ],
+  "gobhi": [
+    "cauliflower"
+  ],
+  "chana": [
+    "chickpeas"
+  ],
+  "paneer": [
+    "cottage cheese"
+  ],
+  "capsicum": [
+    "bell pepper"
+  ],
+  "mixed vegetables": [
+    "mixed veg",
+    "sabzi mix"
+  ]
+}

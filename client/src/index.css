@@ -1,0 +1,65 @@
+/* Global Reset and Font */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  background: linear-gradient(to bottom right, #f0f4f8, #e2e8f0);
+  color: #1a202c;
+}
+
+/* Smooth transitions */
+* {
+  box-sizing: border-box;
+  transition: all 0.2s ease-in-out;
+}
+
+/* Container Utility */
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #ffffff;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
+  border-radius: 12px;
+}
+
+/* Button Styling */
+button {
+  background-color: #3182ce;
+  color: white;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #2b6cb0;
+}
+
+/* Input Fields */
+input[type="text"] {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 12px;
+  border: 1px solid #cbd5e0;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+/* Nutrition Cards */
+.nutrition-box {
+  background: #edf2f7;
+  padding: 12px;
+  border-radius: 8px;
+  margin-top: 10px;
+  font-size: 16px;
+  text-align: center;
+}
+
+/* Section Titles */
+h1, h2, h3 {
+  color: #2d3748;
+  margin-bottom: 16px;
+}

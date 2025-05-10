@@ -1,0 +1,14 @@
+{
+  "katori": {
+    "default": 150
+  },
+  "tbsp": {
+    "jeera": 6,
+    "oil": 13,
+    "sugar": 12.5,
+    "default": 10
+  },
+  "glass": {
+    "default": 250
+  }
+}
